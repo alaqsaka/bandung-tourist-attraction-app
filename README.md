@@ -1,4 +1,4 @@
-# aplikasi_wisata
+# Bandung Tourist Attraction App
 
 A new Flutter project.
 
