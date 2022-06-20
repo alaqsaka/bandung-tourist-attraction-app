@@ -1,6 +1,6 @@
 {
-    "name": "aplikasi_wisata",
-    "short_name": "aplikasi_wisata",
+    "name": "Wisata di Bandung",
+    "short_name": "Wisata di Bandung",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
